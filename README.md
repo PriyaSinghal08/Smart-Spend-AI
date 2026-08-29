@@ -30,3 +30,6 @@ install the required libraries:
 '''bash
 pip innstall -r requirements.txt
 
+## Project Demo
+[Smart Spend-AI Screenshot]
+(screenshot%20 2026-08-29%20153119.png)
