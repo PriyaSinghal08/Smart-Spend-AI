@@ -31,5 +31,4 @@ install the required libraries:
 pip innstall -r requirements.txt
 
 ## Project Demo
-![Smart Spend-AI Screenshot]
-(./screenshot.png)
+<img src="./screenshot.png"alt="Smart Spend-AI Screenshot"width="700">
